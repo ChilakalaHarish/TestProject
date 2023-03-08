@@ -7,6 +7,7 @@ public class EnumDemo1 {
 		    Names[] b1=Names.values();
 		    for(Names b:b1) {
 		    	System.out.println(b);
+		    	System.out.println("king");
 		    }
 	}
 
